@@ -1,0 +1,4 @@
+I need to interact with XML data using natural language queries. LLMs return the queries (ok, so can they interpret the queries for me? how will a vanilla LLM handle hisorical language? what kind of prompting can done to inprove the performance on historical language data?)
+
+langchain's UnstructuredXMLLoader
+https://python.langchain.com/docs/integrations/document_loaders/xml/
