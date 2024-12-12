@@ -2,3 +2,8 @@ I need to interact with XML data using natural language queries. LLMs return the
 
 langchain's UnstructuredXMLLoader
 https://python.langchain.com/docs/integrations/document_loaders/xml/
+
+I'm looking at this langchain tutorial to work out how to do my project:
+https://python.langchain.com/docs/tutorials/rag/
+First though I have to understnad how API keys and end points and azure and all that shit stickss together:
+https://learn.microsoft.com/en-gb/azure/ai-services/openai/quickstart?tabs=command-line%2Cjavascript-keyless%2Ctypescript-keyless%2Cpython-new&pivots=programming-language-python
